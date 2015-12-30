@@ -1,0 +1,11 @@
+.block {
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+.black {
+    background-color: black;
+}
+.clr {
+    clear: both;
+}
